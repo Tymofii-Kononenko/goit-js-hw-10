@@ -1,0 +1,2 @@
+import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                      */import{f as r}from"./assets/vendor-BbbuE1sJ.js";const e=document.querySelector("[data-start]");document.querySelector("[data-days]");document.querySelector("[data-hours]");document.querySelector("[data-minutes]");document.querySelector("[data-seconds]");const o=document.querySelector("#datetime-picker");e.disabled=!0;const a={enableTime:!0,time_24hr:!0,defaultDate:new Date,minuteIncrement:1,onClose(t){t[0].getTime(),e.disabled=!1}};r(o,a);
+//# sourceMappingURL=1-timer.js.map
