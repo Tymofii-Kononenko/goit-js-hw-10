@@ -55,7 +55,7 @@ function onHandleClick(e) {
                 message: `It is your time`,
                 position: 'topCenter',
                 messageColor: '#ffffff',
-                backgroundColor: '#ed6905'
+                backgroundColor: '#0581ed'
             });
             buttonStart.disabled = false;
             return
